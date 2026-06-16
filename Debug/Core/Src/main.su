@@ -1,0 +1,17 @@
+../Drivers/CMSIS/Include/core_cm4.h:2064:26:ITM_SendChar	16	static,ignoring_inline_asm
+../Core/Src/main.c:64:9:switch_Up	8	static
+../Core/Src/main.c:65:9:switch_Down	8	static
+../Core/Src/main.c:66:9:switch_Left	8	static
+../Core/Src/main.c:67:9:switch_Right	8	static
+../Core/Src/main.c:68:9:switch_Center	8	static
+../Core/Src/main.c:71:6:MY_LEDS_Init	32	static
+../Core/Src/main.c:86:6:RGBLED_Config	16	static
+../Core/Src/main.c:92:6:light_leds	16	static
+../Core/Src/main.c:96:6:print_switches	8	static
+../Core/Src/main.c:111:6:MY_GPIO_Init	40	static
+../Core/Src/main.c:137:5:main	8	static
+../Core/Src/main.c:190:6:SystemClock_Config	88	static
+../Core/Src/main.c:232:13:MX_GPIO_Init	48	static
+../Core/Src/main.c:290:13:MX_FSMC_Init	40	static
+../Core/Src/main.c:344:5:_write	32	static
+../Core/Src/main.c:360:6:Error_Handler	4	static,ignoring_inline_asm
